@@ -15,18 +15,6 @@ CSS: Styling for a modern and responsive design.
 JavaScript: Enhances user interaction with dynamic elements and validations.
 PHP: Server-side scripting for handling file uploads and processing.
 
-#Installation
-Clone the repository:
-
-Copy code
-git clone https://github.com/yourusername/file-uploader.git
-Navigate to the project directory:
-
-Copy code
-cd file-uploader
-Start a local server (e.g., using XAMPP, WAMP, or MAMP) and place the project files in the server's root directory.
-Open the project in your preferred web browser.
-
 #Usage
 Open the application in your web browser.
 Select or drag and drop the files you want to upload.
